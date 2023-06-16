@@ -1,0 +1,7 @@
+{
+  "name": "octomap_py",
+  "dependencies": {
+    "pybind11",
+    "octomap"
+  }
+}
